@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<img src="https://github.com/user-attachments/assets/04c0a41e-6eec-4feb-bf02-6221b662839d" width="500">
 
 <!--
 **20G0T010/20G0T010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
