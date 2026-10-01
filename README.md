@@ -5,10 +5,9 @@
 <!--
 Visitors Count
 -->
-<h4 align="center">Visitors count</h3>
-<p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/20G0T010/count.svg">
-</p>
+[![Profile View Counter](https://komarev.com/ghpvc/?username=20g0to10)](https://github.com)
+
+
 
 <!--
 **20G0T010/20G0T010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
